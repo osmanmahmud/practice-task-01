@@ -43,3 +43,15 @@ header {
     margin: 200px 50px 50px 100px;
     padding: 0 50px;
 }
+
+/* My plan list item */
+
+.my-plan{
+    display: flex;
+    justify-content:space-around;
+    padding: 50px 300px;
+}
+.my-plan-section{
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
