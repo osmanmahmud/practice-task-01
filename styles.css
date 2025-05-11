@@ -31,3 +31,15 @@ header {
     font-size: 20px;
 
 }
+/* Second Section person part */
+
+.person-section{
+    display: flex;
+    margin: 10px 0 0 0;
+    padding: 50px;
+    gap: 250px;
+}
+.person-info{
+    margin: 200px 50px 50px 100px;
+    padding: 0 50px;
+}
