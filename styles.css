@@ -31,27 +31,72 @@ header {
     font-size: 20px;
 
 }
+
 /* Second Section person part */
 
-.person-section{
+.person-section {
     display: flex;
     margin: 10px 0 0 0;
     padding: 50px;
     gap: 250px;
 }
-.person-info{
+
+.person-info {
     margin: 200px 50px 50px 100px;
     padding: 0 50px;
 }
 
 /* My plan list item */
 
-.my-plan{
+.my-plan {
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     padding: 50px 300px;
 }
-.my-plan-section{
+
+.my-plan-section {
     margin-top: 150px;
     margin-bottom: 50px;
+}
+
+/* ----call-section----- */
+.last-section{
+    
+    padding: 200px 0;
+}
+.call-section{
+    background-image: url(images1.0/watch.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin: 25px ;
+    width: 1000px;
+    
+}
+
+.call-text {
+padding: 100px;
+}
+.call-button{
+    padding: 15px 25px;
+    border: 0;
+    border-radius: 5px;
+    color: #F15B22;
+    font-size: 20px;
+    margin-top: 25px;
+}
+.call-now{
+    background-image: url(images1.0/gradient2.png);
+    background-repeat: no-repeat;
+    width: 1000px;
+    background-size: 100%;
+}
+#call-id{
+    margin: auto;
+    
+    width: 100%;
+    height: 1000px;
+}
+#gradient-id{
+    width: 100%;
+    height: 1500px; 
 }
